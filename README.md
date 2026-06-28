@@ -1,22 +1,19 @@
 # Machine Learning Practice 🚀
 
-This repository documents my Machine Learning learning journey, including algorithm implementations, experiments, and projects built using Python and Jupyter Notebooks.
+Welcome to my Machine Learning Practice repository.
 
-## 📚 Current Topics
+This repository contains my learning journey in Machine Learning, including implementations of algorithms, experiments, and projects built using Python and Jupyter Notebooks.
 
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Tree
-- Naive Bayes
-- AdaBoost
-- XGBoost
-- Lasso Regression
-- House Price Prediction
+## 📌 About
 
-*More algorithms, projects, and deep learning concepts will be added as I continue learning.*
+The purpose of this repository is to:
 
-## 🛠️ Tech Stack
+- Learn Machine Learning concepts through practical implementation.
+- Build a strong understanding of data analysis and predictive modeling.
+- Work on real-world datasets and projects.
+- Track my progress and continuously improve my skills.
+
+## 🛠️ Technologies Used
 
 - Python
 - NumPy
@@ -25,30 +22,31 @@ This repository documents my Machine Learning learning journey, including algori
 - Scikit-Learn
 - Jupyter Notebook
 
-## 🎯 Goals
+## 📂 Repository Contents
 
-- Build a strong foundation in Machine Learning.
-- Understand algorithms through practical implementation.
-- Work on real-world datasets and projects.
-- Explore advanced ML and Deep Learning concepts.
-- Maintain a structured learning portfolio.
+This repository includes:
 
-## 📈 Progress
+- Machine Learning algorithms
+- Data preprocessing techniques
+- Model training and evaluation
+- Real-world projects
+- Experiment notebooks
 
-This repository is continuously updated with new notebooks, projects, and experiments as I advance in Machine Learning.
+## 🎯 Learning Goals
 
-## ⭐ Future Additions
+- Strengthen Machine Learning fundamentals
+- Improve problem-solving skills
+- Build practical projects
+- Explore advanced Machine Learning and AI concepts
 
-- Random Forest
-- Support Vector Machine (SVM)
-- Gradient Boosting
-- Feature Engineering
-- Model Deployment
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing (NLP)
+## 📈 Status
+
+This repository is actively maintained and regularly updated with new notebooks, projects, and learning materials.
+
+## ⭐ Support
+
+If you find this repository helpful, feel free to star the repository.
 
 ---
 
-**Author:** Dhruv
+**Made with by Dhruv**
